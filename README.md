@@ -406,19 +406,19 @@ Livspace-Interior-Design-BI/
 
 ### Executive Overview
 
-![Executive Overview](Screenshots/Executive_Overview.png)
+<img width="1114" height="622" src="https://github.com/Gayathri0109/livspace-interior-analytics-dashboard/blob/504a8559ddb0bb13609d734e75e1de33cb783a0a/Screenshots/Executive%20Overview.png)" />
 
 ### Project, Customer & Designer Analytics
 
-![Project, Customer & Designer Analytics](Screenshots/Project, Customer & Designer Analytics.png)
+<img width="1114" height="622" src="https://github.com/Gayathri0109/livspace-interior-analytics-dashboard/blob/504a8559ddb0bb13609d734e75e1de33cb783a0a/Screenshots/Project%2C%20Customer%20%26%20Designer%20Analytics.png)" />
 
 ### Sales, Finance & Payment Analytics
 
-![Sales, Finance & Payment Analytics](Screenshots/Sales, Finance & Payment Analytics.png)
+<img width="1114" height="622" src="https://github.com/Gayathri0109/livspace-interior-analytics-dashboard/blob/504a8559ddb0bb13609d734e75e1de33cb783a0a/Screenshots/Sales%2C%20Finance%20%26%20Payment%20Analytics.png)" />
 
 ### Operations, Inventory & Supplier Analytics
 
-![Operations, Inventory & Supplier Analytics](Screenshots/Operations, Inventory & Supplier Analytics.png)
+<img width="1114" height="622" src="https://github.com/Gayathri0109/livspace-interior-analytics-dashboard/blob/504a8559ddb0bb13609d734e75e1de33cb783a0a/Screenshots/Operations%2C%20Inventory%20%26%20Supplier%20Analytics.png)" />
 
 ---
 
