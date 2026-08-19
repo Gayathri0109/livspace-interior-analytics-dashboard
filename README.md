@@ -400,44 +400,25 @@ Livspace-Interior-Design-BI/
 │
 └── documentation/
     └── Project_Documentation.pdf
-
+```
 
 ## Dashboard Screenshots
 
 ### Executive Overview
-```text
+
 ![Executive Overview](D:\Documents from old\Anudip\Dp_Project\Livspace Project\Screenshots\Executive Overview.png)
-```
 
 ### Project, Customer & Designer Analytics
 
-Add the screenshot of the Project, Customer & Designer Analytics dashboard here.
-
-```text
-screenshots/project_customer_designer.png
-```
+![Project, Customer & Designer Analytics](D:\Documents from old\Anudip\Dp_Project\Livspace Project\Screenshots\Project, Customer & Designer Analytics.png)
 
 ### Sales, Finance & Payment Analytics
 
-Add the screenshot of the Sales, Finance & Payment Analytics dashboard here.
-
-```text
-screenshots/sales_finance_payment.png
-```
+![Sales, Finance & Payment Analytics](D:\Documents from old\Anudip\Dp_Project\Livspace Project\Screenshots\Sales, Finance & Payment Analytics.png)
 
 ### Operations, Inventory & Supplier Analytics
 
-Add the screenshot of the Operations, Inventory & Supplier Analytics dashboard here.
-
-```text
-screenshots/operations_inventory_supplier.png
-```
-
-**GitHub image format example:**
-
-```markdown
-![Executive Overview](screenshots/executive_overview.png)
-```
+![Operations, Inventory & Supplier Analytics](D:\Documents from old\Anudip\Dp_Project\Livspace Project\Screenshots\Operations, Inventory & Supplier Analytics.png)
 
 ---
 
