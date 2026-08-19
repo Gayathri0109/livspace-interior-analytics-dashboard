@@ -1,4 +1,3 @@
-<img width="807" height="455" alt="Executive Overview" src="https://github.com/user-attachments/assets/14cc8bfd-b61b-4640-a63b-0d928591507d" />
 # Livspace Interior Design Business Intelligence Dashboard
 
 ## Project Title
