@@ -1,3 +1,4 @@
+<img width="807" height="455" alt="Executive Overview" src="https://github.com/user-attachments/assets/14cc8bfd-b61b-4640-a63b-0d928591507d" />
 # Livspace Interior Design Business Intelligence Dashboard
 
 ## Project Title
@@ -406,21 +407,19 @@ Livspace-Interior-Design-BI/
 
 ### Executive Overview
 
-<img width="1114" height="622" alt="Executive Overview" src="https://github.com/Gayathri0109/livspace-interior-analytics-dashboard/blob/504a8559ddb0bb13609d734e75e1de33cb783a0a/Screenshots/Executive%20Overview.png)" />
+<img width="807" height="455" alt="Executive Overview" src="https://github.com/user-attachments/assets/26fd9005-2f38-4584-a74f-fcb7f4c154d6" />
 
 ### Project, Customer & Designer Analytics
 
-<img width="1114" height="622" alt="Project, Customer & Designer Analytics" src="https://github.com/Gayathri0109/livspace-interior-analytics-dashboard/blob/504a8559ddb0bb13609d734e75e1de33cb783a0a/Screenshots/Project%2C%20Customer%20%26%20Designer%20Analytics.png)" />
+<img width="807" height="455" alt="Project, Customer   Designer Analytics" src="https://github.com/user-attachments/assets/fe9c935b-a98b-4a22-a1a8-770bc471a061" />
 
 ### Sales, Finance & Payment Analytics
 
-<img width="1114" height="622" alt="Sales, Finance & Payment Analytics
-" src="https://github.com/Gayathri0109/livspace-interior-analytics-dashboard/blob/504a8559ddb0bb13609d734e75e1de33cb783a0a/Screenshots/Sales%2C%20Finance%20%26%20Payment%20Analytics.png)" />
+<img width="806" height="454" alt="Sales, Finance   Payment Analytics" src="https://github.com/user-attachments/assets/b438b9f1-2fbc-4892-aa91-679bf71b8a9e" />
 
 ### Operations, Inventory & Supplier Analytics
 
-<img width="1114" height="622" alt="Operations, Inventory & Supplier Analytics
-" src="https://github.com/Gayathri0109/livspace-interior-analytics-dashboard/blob/504a8559ddb0bb13609d734e75e1de33cb783a0a/Screenshots/Operations%2C%20Inventory%20%26%20Supplier%20Analytics.png)" />
+<img width="803" height="453" alt="Operations, Inventory   Supplier Analytics" src="https://github.com/user-attachments/assets/d8907868-bf58-469f-aecc-0d81da542b69" />
 
 ---
 
