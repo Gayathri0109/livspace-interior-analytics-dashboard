@@ -406,19 +406,21 @@ Livspace-Interior-Design-BI/
 
 ### Executive Overview
 
-<img width="1114" height="622" src="https://github.com/Gayathri0109/livspace-interior-analytics-dashboard/blob/504a8559ddb0bb13609d734e75e1de33cb783a0a/Screenshots/Executive%20Overview.png)" />
+<img width="1114" height="622" alt="Executive Overview" src="https://github.com/Gayathri0109/livspace-interior-analytics-dashboard/blob/504a8559ddb0bb13609d734e75e1de33cb783a0a/Screenshots/Executive%20Overview.png)" />
 
 ### Project, Customer & Designer Analytics
 
-<img width="1114" height="622" src="https://github.com/Gayathri0109/livspace-interior-analytics-dashboard/blob/504a8559ddb0bb13609d734e75e1de33cb783a0a/Screenshots/Project%2C%20Customer%20%26%20Designer%20Analytics.png)" />
+<img width="1114" height="622" alt="Project, Customer & Designer Analytics" src="https://github.com/Gayathri0109/livspace-interior-analytics-dashboard/blob/504a8559ddb0bb13609d734e75e1de33cb783a0a/Screenshots/Project%2C%20Customer%20%26%20Designer%20Analytics.png)" />
 
 ### Sales, Finance & Payment Analytics
 
-<img width="1114" height="622" src="https://github.com/Gayathri0109/livspace-interior-analytics-dashboard/blob/504a8559ddb0bb13609d734e75e1de33cb783a0a/Screenshots/Sales%2C%20Finance%20%26%20Payment%20Analytics.png)" />
+<img width="1114" height="622" alt="Sales, Finance & Payment Analytics
+" src="https://github.com/Gayathri0109/livspace-interior-analytics-dashboard/blob/504a8559ddb0bb13609d734e75e1de33cb783a0a/Screenshots/Sales%2C%20Finance%20%26%20Payment%20Analytics.png)" />
 
 ### Operations, Inventory & Supplier Analytics
 
-<img width="1114" height="622" src="https://github.com/Gayathri0109/livspace-interior-analytics-dashboard/blob/504a8559ddb0bb13609d734e75e1de33cb783a0a/Screenshots/Operations%2C%20Inventory%20%26%20Supplier%20Analytics.png)" />
+<img width="1114" height="622" alt="Operations, Inventory & Supplier Analytics
+" src="https://github.com/Gayathri0109/livspace-interior-analytics-dashboard/blob/504a8559ddb0bb13609d734e75e1de33cb783a0a/Screenshots/Operations%2C%20Inventory%20%26%20Supplier%20Analytics.png)" />
 
 ---
 
