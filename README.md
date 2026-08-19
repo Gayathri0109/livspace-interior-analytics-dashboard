@@ -406,19 +406,19 @@ Livspace-Interior-Design-BI/
 
 ### Executive Overview
 
-![Executive Overview](D:\Documents from old\Anudip\Dp_Project\Livspace Project\Screenshots\Executive Overview.png)
+![Executive Overview](Screenshots/executive_overview.png)
 
 ### Project, Customer & Designer Analytics
 
-![Project, Customer & Designer Analytics](D:\Documents from old\Anudip\Dp_Project\Livspace Project\Screenshots\Project, Customer & Designer Analytics.png)
+![Project, Customer & Designer Analytics](Screenshots/project_customer_designer.png)
 
 ### Sales, Finance & Payment Analytics
 
-![Sales, Finance & Payment Analytics](D:\Documents from old\Anudip\Dp_Project\Livspace Project\Screenshots\Sales, Finance & Payment Analytics.png)
+![Sales, Finance & Payment Analytics](Screenshots/sales_finance_payment.png)
 
 ### Operations, Inventory & Supplier Analytics
 
-![Operations, Inventory & Supplier Analytics](D:\Documents from old\Anudip\Dp_Project\Livspace Project\Screenshots\Operations, Inventory & Supplier Analytics.png)
+![Operations, Inventory & Supplier Analytics](Screenshots/operations_inventory_supplier.png)
 
 ---
 
