@@ -1,0 +1,301 @@
+employee_id,first_name,last_name,gender,dob,email,phone,hire_date,department,designation,manager_id,city_id,salary,employment_type,status,performance_rating,experience_years,work_mode
+EMP0001,Rahul,Sharma,Female,04-08-1999,emp1@livspace.com,9294261532,07-02-2020,Procurement,Procurement Executive,,C213,1777011,Intern,Active,2,14,Office
+EMP0002,Ananya,Patel,Male,14-10-1980,emp2@livspace.com,9699881325,19-04-2020,Design,Interior Designer,,C037,1792676,Intern,On Leave,4,2,Hybrid
+EMP0003,Rahul,Nair,Female,21-11-1981,emp3@livspace.com,9848667610,05-12-2025,Operations,Project Coordinator,,C058,1337847,Full-Time,Active,1,6,Hybrid
+EMP0004,Aarav,Iyer,male,04-05-1992,emp4@livspace.com,9599650084,15-06-2020,Customer Support,Support Executive,,C211,1148371,Contract,Active,4,20,Office
+EMP0005,Priya,Nair,Male,22-02-1990,emp5@livspace.com,9913434006,21-04-2022,Design,Interior Designer,,C183,819369,Intern,Resigned,3,1,Remote
+EMP0006,Rahul,Singh,Male,22-09-1985,emp6@livspace.com,9155489867,24-10-2024,Operations,Project Coordinator,,C221,2149147,Contract,active,5,0,Hybrid
+EMP0007,Karan,Patel,Male,05-07-1991,emp7@livspace.com,9295307436,10-09-2023,Sales,Sales Executive,,C076,680415,Full-Time,Resigned,3,1,Office
+EMP0008,Karan,Iyer,Male,20-08-1985,emp8@livspace.com,9108931474,13-01-2023,Marketing,Marketing Executive,,C200,1982502,Full-Time,On Leave,5,14,Remote
+EMP0009,Rahul,Sharma,male,18-03-1992,emp9@livspace.com,9116093186,16-09-2025,Operations,Project Coordinator,,C170,368761,Intern,active,2,6,Hybrid
+EMP0010,Priya,Iyer,Female,23-06-1985,emp10@livspace.com,9335123347,02-12-2024,Design,Interior Designer,,C043,799412,Full-Time,active,2,6,Office
+EMP0011,Ananya,Singh,Male,15-07-1997,emp11@livspace.com,9207939697,27-08-2020,Procurement,Procurement Executive,EMP0009,C122,1681572,Contract,Active,4,9,Hybrid
+EMP0012,Rahul,Nair,Male,23-07-1985,emp12@livspace.com,9230349403,03-09-2024,Installation,Site Engineer,EMP0004,C014,884278,Full-Time,Active,3,5,Remote
+EMP0013,Neha,Gupta,Male,01-04-1980,emp13@livspace.com,9191668080,17-12-2025,Procurement,Procurement Executive,EMP0003,C120,1064392,Full-Time,Resigned,4,7,Office
+EMP0014,Rahul,Nair,Female,05-09-1999,emp14@livspace.com,9110402176,03-12-2025,HR,HR Executive,EMP0003,C174,1436387,Contract,active,5,12,Office
+EMP0015,Karan,Patel,Female,27-02-1998,emp15@livspace.com,9304413843,01-06-2023,Design,Interior Designer,EMP0004,C108,537082,Intern,On Leave,3,8,Hybrid
+EMP0016,Priya,Nair,male,27-11-1984,emp16@livspace.com,9353227438,18-11-2020,Installation,Site Engineer,EMP0007,C044,1445536,Full-Time,active,1,10,Office
+EMP0017,Ananya,Patel,male,23-11-1985,emp17@livspace.com,9890165294,07-07-2024,Procurement,Procurement Executive,EMP0007,C216,1401990,Full-Time,active,5,6,Hybrid
+EMP0018,Rahul,Iyer,Female,15-10-1983,emp18@livspace.com,9658143593,26-05-2025,Operations,Project Coordinator,EMP0007,C096,1674974,Full-Time,active,3,12,Remote
+EMP0019,Vikram,Iyer,male,14-05-1999,emp19@livspace.com,9927386809,09-07-2025,HR,HR Executive,EMP0003,C098,1018341,Full-Time,Resigned,4,20,Hybrid
+EMP0020,Priya,Patel,Female,06-10-1992,emp20@livspace.com,9268945121,08-12-2024,HR,HR Executive,EMP0005,C035,1727792,Intern,Resigned,5,0,Office
+EMP0021,Aarav,Jain,Female,21-01-1989,emp21@livspace.com,9913609813,21-12-2022,Procurement,Procurement Executive,EMP0005,C010,1146082,Full-Time,active,3,0,Hybrid
+EMP0022,Sneha,Iyer,Male,05-03-1987,emp22@livspace.com,9365419631,07-05-2020,Design,Interior Designer,EMP0007,C012,2122683,Contract,On Leave,3,6,Remote
+EMP0023,Rahul,Nair,male,02-12-1983,emp23@livspace.com,9179894724,06-05-2023,Customer Support,Support Executive,EMP0009,C019,1652935,Contract,Active,2,1,Office
+EMP0024,Sneha,Iyer,male,06-12-1980,emp24@livspace.com,9161555889,09-12-2024,Installation,Site Engineer,EMP0006,C022,1252008,Intern,On Leave,4,18,Office
+EMP0025,Karan,Iyer,male,11-07-1996,emp25@livspace.com,9534461941,14-03-2021,Sales,Sales Executive,EMP0002,C003,1082244,Intern,Resigned,1,18,Remote
+EMP0026,Vikram,Nair,Male,07-10-1999,emp26@livspace.com,9178322657,01-07-2025,Design,Interior Designer,EMP0003,C198,343421,Intern,On Leave,5,2,Remote
+EMP0027,Aarav,Gupta,male,24-03-1997,emp27@livspace.com,9145190390,26-05-2024,Design,Interior Designer,EMP0008,C117,1375618,Contract,Resigned,4,11,Hybrid
+EMP0028,Vikram,Singh,Female,05-10-1986,emp28@livspace.com,9958705138,25-08-2020,Marketing,Marketing Executive,EMP0001,C031,1244505,Full-Time,active,4,12,Office
+EMP0029,Ananya,Iyer,male,01-01-1997,emp29@livspace.com,9161287838,17-07-2020,Design,Interior Designer,EMP0009,C227,1257539,Full-Time,Resigned,2,9,Remote
+EMP0030,Priya,Reddy,Female,19-05-1983,emp30@livspace.com,9541603050,10-02-2021,Marketing,Marketing Executive,EMP0007,C150,1438520,Intern,Resigned,4,14,Hybrid
+EMP0031,Sneha,Singh,Female,15-08-1989,emp31@livspace.com,9374440472,23-05-2023,Marketing,Marketing Executive,EMP0002,C032,2113346,Intern,Resigned,3,4,Remote
+EMP0032,Priya,Jain,Male,17-12-1983,emp32@livspace.com,9873481819,14-08-2023,Procurement,Procurement Executive,EMP0006,C211,1584372,Intern,Resigned,5,4,Remote
+EMP0033,Sneha,Gupta,Male,08-04-1993,emp33@livspace.com,9239931502,28-08-2023,Customer Support,Support Executive,EMP0003,C165,1510778,Contract,Active,2,17,Hybrid
+EMP0034,Priya,Sharma,male,18-03-1999,emp34@livspace.com,9748954969,13-06-2022,Design,Interior Designer,EMP0007,C019,772856,Contract,Resigned,1,16,Remote
+EMP0035,Karan,Singh,Female,28-12-1993,,9150197875,11-05-2024,Operations,Project Coordinator,EMP0004,C139,1198066,Full-Time,Resigned,2,11,Office
+EMP0036,Aarav,Sharma,male,04-04-1984,emp36@livspace.com,9557526344,28-12-2021,Design,Interior Designer,EMP0009,C177,1626718,Full-Time,On Leave,1,6,Hybrid
+EMP0037,Aarav,Reddy,male,09-03-1998,emp37@livspace.com,9567593507,10-11-2024,Sales,Sales Executive,EMP0007,C147,1540159,Full-Time,active,1,15,Remote
+EMP0038,Sneha,Jain,Male,21-06-1991,emp38@livspace.com,9867263322,21-06-2023,Customer Support,Support Executive,EMP0008,C243,607790,Full-Time,Active,2,20,Remote
+EMP0039,Aarav,Gupta,male,20-04-1989,emp39@livspace.com,9505262475,09-04-2023,Finance,Finance Executive,EMP0007,C032,1368309,Contract,On Leave,2,11,Hybrid
+EMP0040,Vikram,Singh,Female,23-01-1999,emp40@livspace.com,9165550931,22-03-2020,Design,Interior Designer,EMP0001,C101,341969,Contract,active,3,10,Hybrid
+EMP0041,Priya,Reddy,male,12-05-1992,emp41@livspace.com,,24-08-2020,Finance,Finance Executive,EMP0005,C139,429666,Contract,active,3,9,Remote
+EMP0042,Ananya,Singh,male,03-09-1984,emp42@livspace.com,9828621939,08-03-2023,Finance,Finance Executive,EMP0002,C145,1716471,Intern,Resigned,4,7,Hybrid
+EMP0043,Sneha,Patel,Male,14-11-1980,emp43@livspace.com,9491768556,03-09-2024,Finance,Finance Executive,EMP0008,C002,824704,Intern,Active,1,5,Hybrid
+EMP0044,Priya,Sharma,male,26-06-1987,emp44@livspace.com,9729972425,01-12-2022,Installation,Site Engineer,EMP0003,C121,1924427,Full-Time,active,4,9,Hybrid
+EMP0045,Sneha,Reddy,Female,10-12-1984,emp45@livspace.com,9978028249,11-02-2020,Procurement,Procurement Executive,EMP0005,C164,1985295,Contract,Active,null,3,Remote
+EMP0046,Aarav,Singh,Female,08-05-1983,emp46@livspace.com,9880133447,28-05-2025,Marketing,Marketing Executive,EMP0001,C172,625037,Contract,Active,4,10,Remote
+EMP0047,Vikram,Jain,male,13-05-1998,emp47@livspace.com,9711591641,17-03-2021,HR,HR Executive,EMP0008,C143,1002028,Intern,On Leave,1,17,Office
+EMP0048,Rahul,Jain,male,01-11-1993,emp48@livspace.com,9140641848,07-03-2024,Procurement,Procurement Executive,EMP0006,C144,1186396,Full-Time,Active,4,7,Remote
+EMP0049,Karan,Patel,Female,05-10-1983,emp49@livspace.com,9113125011,12-04-2021,Finance,Finance Executive,EMP0010,C136,1478908,Full-Time,On Leave,4,3,Hybrid
+EMP0050, Aarav,Patel,male,13-02-1992,emp50@livspace.com,9982492883,01-09-2020,Finance,Finance Executive,EMP0005,C193,1123773,Contract,Active,5,2,Office
+EMP0051,Priya,Iyer,Female,18-01-1986,emp51@livspace.com,9109165744,23-07-2020,Finance,Finance Executive,EMP0007,C155,1021324,Full-Time,Resigned,4,5,Office
+EMP0052,Rahul,Iyer,Female,03-04-1995,emp52@livspace.com,9380382041,06-12-2023,Customer Support,Support Executive,EMP0003,C103,689307,Contract,active,3,17,Hybrid
+EMP0053,Sneha,Patel,Male,26-08-1984,emp53@livspace.com,9923431093,09-05-2020,Finance,Finance Executive,EMP0002,C005,2190798,Full-Time,On Leave,1,4,Hybrid
+EMP0054,Neha,Iyer,male,03-06-1980,emp54@livspace.com,9926784703,15-11-2024,Marketing,Marketing Executive,EMP0009,C015,1426955,Contract,On Leave,5,20,Office
+EMP0055,Aarav,Nair,Female,03-11-1980,emp55@livspace.com,9446841032,21-02-2020,HR,HR Executive,EMP0001,C079,1820762,Full-Time,active,1,13,Hybrid
+EMP0056,Aarav,Singh,male,09-09-1987,emp56@livspace.com,9839262843,21-11-2025,Procurement,Procurement Executive,EMP0007,C052,1056434,Full-Time,active,3,16,Office
+EMP0057,Sneha,Nair,Male,14-03-1985,emp57@livspace.com,9669522826,11-02-2023,Marketing,Marketing Executive,EMP0008,C206,1021390,Contract,Active,2,3,Hybrid
+EMP0058,Neha,Reddy,Male,21-03-1984,emp58@livspace.com,9333531323,24-08-2022,Customer Support,Support Executive,EMP0006,C048,2118050,Full-Time,active,1,13,Hybrid
+EMP0059,Priya,Patel,male,05-05-1993,emp59@livspace.com,9521029784,02-05-2020,Sales,Sales Executive,EMP0009,C026,1651142,Contract,Resigned,5,19,Hybrid
+EMP0060,Karan,Nair,Female,15-02-1983,emp60@livspace.com,9492680987,06-09-2025,Marketing,Marketing Executive,EMP0002,C189,1164047,Full-Time,Resigned,3,9,Hybrid
+EMP0061,Aarav,Jain,Female,16-01-1997,emp61@livspace.com,9997231502,14-07-2023,HR,HR Executive,EMP0009,C140,1010111,Contract,active,5,14,Hybrid
+EMP0062,Aarav,Gupta,male,16-03-1995,emp62@livspace.com,9836806922,08-08-2024,Operations,Project Coordinator,EMP0004,C026,1538405,Intern,active,2,6,Hybrid
+EMP0063,Ananya,Iyer,Female,20-11-1983,emp63@livspace.com,9661288419,02-06-2022,Design,Interior Designer,EMP0005,C056,1016151,Intern,active,5,18,Office
+EMP0064,Vikram,Nair,Female,01-09-1984,emp64@livspace.com,9863459610,12-07-2023,HR,HR Executive,EMP0002,C061,388094,Contract,On Leave,1,12,Remote
+EMP0065,Ananya,Patel,Female,26-11-1999,emp65@livspace.com,9759919192,10-08-2024,Customer Support,Support Executive,EMP0001,C086,608949,Full-Time,Resigned,5,4,Office
+EMP0066,Rahul,Sharma,Female,17-10-1988,emp66@livspace.com,9944971038,14-11-2020,Design,Interior Designer,EMP0005,C070,807042,Full-Time,Active,2,6,Office
+EMP0067,Sneha,Patel,male,23-08-1999,emp67@livspace.com,9656828956,23-04-2020,Procurement,Procurement Executive,EMP0010,C227,1574207,Contract,active,1,16,Office
+EMP0068,Aarav,Reddy,Male,12-09-1981,emp68@livspace.com,9373882338,06-07-2024,Procurement,Procurement Executive,EMP0006,C123,1058954,Intern,Active,2,6,Hybrid
+EMP0069,Aarav,Iyer,Male,11-01-1995,emp69@livspace.com,9679695831,15-11-2024,Operations,Project Coordinator,EMP0006,C145,638384,Contract,On Leave,4,9,Office
+EMP0070,Vikram,Sharma,Female,26-09-1984,,9457152747,23-12-2021,Sales,Sales Executive,EMP0008,C120,2100225,Full-Time,On Leave,2,6,Remote
+EMP0071,Aarav,Iyer,Male,21-06-1986,emp71@livspace.com,9210704224,11-08-2020,Procurement,Procurement Executive,EMP0008,C240,350667,Contract,Active,3,10,Remote
+EMP0072,Karan,Nair,Male,07-11-1999,emp72@livspace.com,9854768636,21-07-2023,Customer Support,Support Executive,EMP0004,C125,1324752,Full-Time,On Leave,4,0,Hybrid
+EMP0073,Rahul,Reddy,Female,10-03-1993,emp73@livspace.com,9786903582,11-01-2024,Design,Interior Designer,EMP0008,C015,1166433,Full-Time,active,1,4,Office
+EMP0074,Vikram,Jain,Male,13-05-1988,emp74@livspace.com,9291372559,24-07-2024,Design,Interior Designer,EMP0005,C078,1330439,Contract,On Leave,4,9,Office
+EMP0075,Vikram,Nair,Female,21-08-1985,emp75@livspace.com,9547680167,23-03-2024,Sales,Sales Executive,EMP0009,C021,325308,Full-Time,Resigned,4,20,Office
+EMP0076,Ananya,Nair,male,20-12-1988,emp76@livspace.com,9652273098,28-07-2025,Customer Support,Support Executive,EMP0004,C183,1391097,Full-Time,Active,3,4,Hybrid
+EMP0077,Rahul,Sharma,male,18-08-1987,emp77@livspace.com,9895965527,26-09-2020,Operations,Project Coordinator,EMP0004,C033,1511796,Full-Time,Resigned,3,4,Hybrid
+EMP0078,Aarav,Jain,Male,12-08-1989,emp78@livspace.com,9851449440,04-10-2023,Installation,Site Engineer,EMP0007,C227,320821,Full-Time,active,2,17,Office
+EMP0079,Priya,Iyer,Female,19-10-1999,emp79@livspace.com,9841532859,17-10-2025,Procurement,Procurement Executive,EMP0005,C113,920808,Intern,Resigned,5,12,Hybrid
+EMP0080,Ananya,Iyer,Female,15-08-1981,emp80@livspace.com,9409950163,01-10-2025,Operations,Project Coordinator,EMP0009,C194,342430,Contract,On Leave,3,19,Remote
+EMP0081,Karan,Nair,Male,22-04-1996,emp81@livspace.com,9898829056,13-12-2024,Operations,Project Coordinator,EMP0001,C084,2084466,Contract,active,3,6,Office
+EMP0082,Vikram,Iyer,Female,25-10-1993,emp82@livspace.com,,14-05-2022,Marketing,Marketing Executive,EMP0007,C025,1122800,Intern,Resigned,5,13,Office
+EMP0083,Vikram,Singh,Male,03-06-1996,emp83@livspace.com,9936171572,19-02-2023,Marketing,Marketing Executive,EMP0009,C110,1718469,Contract,Active,5,5,Hybrid
+EMP0084,Ananya,Gupta,Male,12-06-1984,emp84@livspace.com,9250265410,05-12-2023,Installation,Site Engineer,EMP0004,C017,1111048,Full-Time,Resigned,4,17,Hybrid
+EMP0085,Rahul,Singh,Male,12-09-1983,emp85@livspace.com,9732853468,05-11-2021,Marketing,Marketing Executive,EMP0006,C108,1115666,Intern,Active,2,20,Office
+EMP0086,Aarav,Reddy,Male,14-02-1998,emp86@livspace.com,9998366209,05-12-2022,Design,Interior Designer,EMP0010,C030,1554045,Intern,On Leave,4,11,Office
+EMP0087,Vikram,Gupta,Male,21-07-1990,emp87@livspace.com,9435192030,15-11-2020,Operations,Project Coordinator,EMP0009,C073,512029,Full-Time,Active,1,8,Hybrid
+EMP0088,Aarav,Singh,Male,16-11-1999,emp88@livspace.com,9374411359,08-06-2023,Operations,Project Coordinator,EMP0004,C186,1854962,Contract,Resigned,2,3,Remote
+EMP0089,Aarav,Reddy,Female,06-05-1986,emp89@livspace.com,9664905387,15-02-2020,HR,HR Executive,EMP0007,C095,1103897,Contract,Resigned,2,15,Office
+EMP0090,Ananya,Iyer,Female,12-10-1999,emp90@livspace.com,9936236257,12-04-2024,Sales,Sales Executive,EMP0004,C082,574736,Contract,active,null,4,Office
+EMP0091,Rahul,Patel,Male,26-05-1993,emp91@livspace.com,9744484179,28-09-2025,Finance,Finance Executive,EMP0003,C175,712526,Intern,active,5,12,Hybrid
+EMP0092,Neha,Iyer,Female,27-05-1984,emp92@livspace.com,9566498213,06-02-2024,Installation,Site Engineer,EMP0008,C166,1575283,Full-Time,Resigned,1,6,Office
+EMP0093,Neha,Gupta,male,08-03-1991,emp93@livspace.com,9760330259,09-05-2021,Operations,Project Coordinator,EMP0004,C112,1579644,Full-Time,Resigned,4,5,Hybrid
+EMP0094,Rahul,Patel,Female,23-01-1981,emp94@livspace.com,9288673667,02-05-2020,Design,Interior Designer,EMP0009,C053,1825074,Contract,On Leave,4,13,Hybrid
+EMP0095,Vikram,Jain,male,02-07-1985,emp95@livspace.com,9252626153,19-10-2023,Customer Support,Support Executive,EMP0005,C116,599318,Contract,active,4,5,Office
+EMP0096,Priya,Jain,Female,04-09-1994,emp96@livspace.com,9544000428,23-08-2024,Procurement,Procurement Executive,EMP0009,C067,1572423,Full-Time,Resigned,5,15,Hybrid
+EMP0097,Priya,Iyer,male,13-12-1986,emp97@livspace.com,9536967710,03-10-2020,Procurement,Procurement Executive,EMP0008,C144,2069769,Contract,On Leave,4,18,Hybrid
+EMP0098,Vikram,Jain,Male,18-03-1994,emp98@livspace.com,9524399405,27-03-2025,Sales,Sales Executive,EMP0007,C157,2083862,Full-Time,Active,2,9,Remote
+EMP0099,Karan,Gupta,Female,21-05-1988,emp99@livspace.com,9329517088,27-05-2020,Finance,Finance Executive,EMP0010,C175,613331,Intern,On Leave,3,10,Remote
+EMP0100, Karan,Gupta,Female,10-05-1988,emp100@livspace.com,9943559822,19-09-2023,Design,Interior Designer,EMP0006,C024,1393767,Full-Time,Active,3,18,Hybrid
+EMP0101,Vikram,Sharma,male,28-07-1998,emp101@livspace.com,9562443441,03-06-2022,Finance,Finance Executive,EMP0002,C129,1308509,Contract,On Leave,3,7,Office
+EMP0102,Rahul,Iyer,male,22-06-1997,emp102@livspace.com,9752217106,09-10-2023,Marketing,Marketing Executive,EMP0010,C123,1100636,Contract,Active,3,3,Hybrid
+EMP0103,Karan,Patel,male,14-08-1986,emp103@livspace.com,9396874271,21-02-2021,Finance,Finance Executive,EMP0003,C247,668782,Full-Time,On Leave,2,18,Remote
+EMP0104,Sneha,Reddy,Male,16-10-1993,emp104@livspace.com,9126349919,18-01-2020,Operations,Project Coordinator,EMP0006,C222,1362357,Full-Time,On Leave,5,5,Office
+EMP0105,Neha,Patel,Male,05-04-1988,,9594681815,11-02-2021,Procurement,Procurement Executive,EMP0009,C224,821464,Intern,Resigned,3,4,Office
+EMP0106,Priya,Iyer,male,11-07-1988,emp106@livspace.com,9502429069,15-01-2025,Customer Support,Support Executive,EMP0003,C234,915210,Contract,On Leave,1,7,Hybrid
+EMP0107,Karan,Gupta,Female,04-11-1991,emp107@livspace.com,9394581125,08-04-2023,HR,HR Executive,EMP0006,C242,1675020,Intern,active,4,12,Office
+EMP0108,Aarav,Iyer,male,26-07-1981,emp108@livspace.com,9247216096,18-01-2024,Marketing,Marketing Executive,EMP0009,C004,885362,Intern,Active,3,20,Hybrid
+EMP0109,Sneha,Sharma,male,18-04-1995,emp109@livspace.com,9700924400,23-09-2022,Customer Support,Support Executive,EMP0006,C031,1081876,Intern,Resigned,4,2,Hybrid
+EMP0110,Karan,Gupta,Female,25-11-1981,emp110@livspace.com,9966267494,03-01-2020,Operations,Project Coordinator,EMP0008,C159,956958,Full-Time,Resigned,3,16,Remote
+EMP0111,Vikram,Iyer,Male,23-06-1993,emp111@livspace.com,9391656719,19-07-2024,Finance,Finance Executive,EMP0006,C162,359041,Intern,active,3,6,Office
+EMP0112,Sneha,Patel,Male,16-07-1985,emp112@livspace.com,9595800823,10-05-2023,Sales,Sales Executive,EMP0008,C130,1567808,Intern,Resigned,4,6,Hybrid
+EMP0113,Rahul,Patel,Male,07-07-1981,emp113@livspace.com,9993645533,20-07-2023,Finance,Finance Executive,EMP0009,C072,1053617,Contract,active,2,16,Remote
+EMP0114,Sneha,Jain,Female,10-05-1988,emp114@livspace.com,9784352567,25-01-2020,HR,HR Executive,EMP0003,C162,493196,Full-Time,Resigned,3,10,Hybrid
+EMP0115,Priya,Jain,male,19-06-1997,emp115@livspace.com,9418319440,10-12-2023,Marketing,Marketing Executive,EMP0008,C117,596746,Full-Time,Active,5,17,Hybrid
+EMP0116,Rahul,Iyer,Female,26-07-1992,emp116@livspace.com,9803606574,17-02-2024,Sales,Sales Executive,EMP0001,C126,973383,Contract,Active,5,16,Remote
+EMP0117,Karan,Gupta,male,07-09-1987,emp117@livspace.com,9912138575,23-04-2020,Operations,Project Coordinator,EMP0009,C001,679176,Full-Time,Active,5,1,Office
+EMP0118,Ananya,Reddy,Male,20-05-1984,emp118@livspace.com,9503544909,15-12-2025,Operations,Project Coordinator,EMP0010,C246,1781836,Contract,active,1,1,Office
+EMP0119,Vikram,Iyer,male,06-03-1983,emp119@livspace.com,9393217184,17-11-2023,Operations,Project Coordinator,EMP0009,C054,1210746,Contract,Resigned,2,15,Hybrid
+EMP0120,Vikram,Gupta,Male,03-03-1992,emp120@livspace.com,9570545021,18-07-2021,Customer Support,Support Executive,EMP0002,C098,1131589,Contract,Active,1,5,Hybrid
+EMP0121,Neha,Reddy,male,27-06-1996,emp121@livspace.com,9715627301,03-08-2022,Sales,Sales Executive,EMP0002,C211,354395,Contract,active,3,4,Hybrid
+EMP0122,Neha,Jain,Female,13-02-1982,emp122@livspace.com,9208550315,13-11-2022,Operations,Project Coordinator,EMP0010,C178,2153167,Contract,On Leave,3,11,Hybrid
+EMP0123,Priya,Iyer,Female,25-06-1981,emp123@livspace.com,,09-03-2022,Operations,Project Coordinator,EMP0006,C006,670030,Full-Time,Active,1,17,Remote
+EMP0124,Priya,Gupta,Female,04-11-1986,emp124@livspace.com,9826753715,07-01-2021,Procurement,Procurement Executive,EMP0003,C119,1785656,Full-Time,active,4,9,Remote
+EMP0125,Rahul,Singh,Male,01-02-1995,emp125@livspace.com,9202349886,06-01-2020,Design,Interior Designer,EMP0006,C083,1136505,Full-Time,Resigned,2,5,Office
+EMP0126,Neha,Nair,Female,06-01-1985,emp126@livspace.com,9115867250,15-10-2025,Sales,Sales Executive,EMP0003,C074,555931,Full-Time,active,4,6,Hybrid
+EMP0127,Aarav,Singh,male,20-12-1984,emp127@livspace.com,9928206389,12-09-2020,Operations,Project Coordinator,EMP0006,C246,932452,Contract,Active,1,14,Hybrid
+EMP0128,Sneha,Iyer,Male,13-11-1989,emp128@livspace.com,9683134494,02-08-2023,Procurement,Procurement Executive,EMP0004,C105,2025872,Full-Time,Resigned,2,9,Remote
+EMP0129,Vikram,Reddy,male,18-10-1996,emp129@livspace.com,9200857659,04-05-2021,HR,HR Executive,EMP0003,C248,1145701,Full-Time,On Leave,4,14,Remote
+EMP0130,Priya,Nair,Male,05-02-1997,emp130@livspace.com,9928325924,06-11-2025,Customer Support,Support Executive,EMP0010,C065,619561,Full-Time,Resigned,1,18,Office
+EMP0131,Sneha,Jain,Male,28-11-1984,emp131@livspace.com,9751664983,20-04-2024,Marketing,Marketing Executive,EMP0007,C047,1072519,Contract,Active,1,7,Office
+EMP0132,Karan,Nair,male,08-02-1984,emp132@livspace.com,9885164761,20-01-2020,Finance,Finance Executive,EMP0003,C159,819401,Intern,Resigned,3,5,Hybrid
+EMP0133,Sneha,Iyer,male,18-11-1998,emp133@livspace.com,9276236864,25-03-2020,Design,Interior Designer,EMP0002,C211,1219560,Intern,active,1,1,Office
+EMP0134,Neha,Patel,Female,12-12-1982,emp134@livspace.com,9541837547,27-01-2025,Customer Support,Support Executive,EMP0007,C165,1800644,Contract,active,3,19,Remote
+EMP0135,Aarav,Jain,male,12-12-1985,emp135@livspace.com,9104158735,27-06-2024,Installation,Site Engineer,EMP0008,C122,793220,Full-Time,Active,null,9,Hybrid
+EMP0136,Karan,Jain,Male,12-08-1991,emp136@livspace.com,9748921603,12-03-2024,Design,Interior Designer,EMP0003,C070,1575244,Full-Time,On Leave,3,8,Office
+EMP0137,Vikram,Patel,Male,04-01-1986,emp137@livspace.com,9822439401,19-07-2024,Customer Support,Support Executive,EMP0003,C102,2133644,Full-Time,Resigned,4,2,Remote
+EMP0138,Priya,Patel,male,16-12-1988,emp138@livspace.com,9515206466,05-08-2022,Procurement,Procurement Executive,EMP0006,C250,746770,Full-Time,active,4,17,Office
+EMP0139,Neha,Jain,Male,04-01-1995,emp139@livspace.com,9962906581,12-09-2023,HR,HR Executive,EMP0008,C085,771018,Full-Time,Resigned,2,2,Remote
+EMP0140,Neha,Patel,Female,16-01-1982,,9205027461,09-05-2022,Customer Support,Support Executive,EMP0004,C060,1824991,Contract,Resigned,2,19,Remote
+EMP0141,Rahul,Singh,Male,07-08-1987,emp141@livspace.com,9157099288,06-05-2023,Finance,Finance Executive,EMP0009,C217,2086730,Contract,active,3,14,Office
+EMP0142,Rahul,Reddy,Female,12-10-1991,emp142@livspace.com,9251424613,11-05-2025,Marketing,Marketing Executive,EMP0006,C144,2186936,Intern,Resigned,2,7,Remote
+EMP0143,Aarav,Sharma,male,20-02-1983,emp143@livspace.com,9126643727,12-01-2025,Sales,Sales Executive,EMP0002,C037,1205730,Full-Time,Resigned,2,2,Hybrid
+EMP0144,Aarav,Sharma,Female,04-04-1999,emp144@livspace.com,9372688458,10-12-2025,Design,Interior Designer,EMP0002,C214,1120841,Intern,active,1,15,Office
+EMP0145,Ananya,Jain,Female,27-09-1995,emp145@livspace.com,9966217561,09-01-2025,Marketing,Marketing Executive,EMP0006,C011,654901,Full-Time,On Leave,4,12,Remote
+EMP0146,Priya,Iyer,Female,03-05-1987,emp146@livspace.com,9236172869,05-03-2024,Sales,Sales Executive,EMP0001,C114,2177069,Full-Time,active,1,9,Remote
+EMP0147,Vikram,Iyer,male,06-07-1989,emp147@livspace.com,9458967353,18-01-2022,Sales,Sales Executive,EMP0003,C005,1698994,Contract,Resigned,2,20,Remote
+EMP0148,Aarav,Iyer,male,17-05-1987,emp148@livspace.com,9631071105,13-03-2024,Finance,Finance Executive,EMP0003,C013,1060046,Full-Time,active,1,5,Office
+EMP0149,Aarav,Iyer,Male,25-05-1995,emp149@livspace.com,9926867822,27-10-2020,Sales,Sales Executive,EMP0004,C063,1009750,Contract,Resigned,2,17,Office
+EMP0150, Vikram,Patel,Male,22-07-1988,emp150@livspace.com,9981523656,24-04-2020,Finance,Finance Executive,EMP0002,C150,677391,Intern,Resigned,5,20,Office
+EMP0151,Karan,Nair,Female,16-10-1996,emp151@livspace.com,9201254627,10-07-2022,HR,HR Executive,EMP0008,C234,1764478,Contract,active,2,11,Office
+EMP0152,Vikram,Singh,Male,16-03-1985,emp152@livspace.com,9821212382,26-08-2020,HR,HR Executive,EMP0003,C083,1666032,Full-Time,On Leave,4,7,Hybrid
+EMP0153,Karan,Singh,male,21-04-1990,emp153@livspace.com,9750805273,06-12-2021,HR,HR Executive,EMP0009,C006,526242,Contract,Active,5,12,Office
+EMP0154,Aarav,Singh,Female,04-01-1993,emp154@livspace.com,9571445468,03-07-2021,Installation,Site Engineer,EMP0003,C155,1653243,Contract,Active,3,20,Hybrid
+EMP0155,Rahul,Jain,male,08-12-1982,emp155@livspace.com,9260837094,15-02-2023,HR,HR Executive,EMP0009,C196,630962,Contract,Resigned,2,16,Hybrid
+EMP0156,Karan,Jain,Female,13-03-1994,emp156@livspace.com,9858460074,10-11-2022,Customer Support,Support Executive,EMP0002,C006,1842583,Full-Time,Resigned,1,20,Hybrid
+EMP0157,Rahul,Iyer,male,02-03-1995,emp157@livspace.com,9208283212,04-01-2021,Design,Interior Designer,EMP0002,C222,2102149,Contract,Active,3,5,Hybrid
+EMP0158,Rahul,Nair,male,11-07-1988,emp158@livspace.com,9942676507,10-10-2025,Customer Support,Support Executive,EMP0008,C002,1797162,Intern,Active,4,13,Hybrid
+EMP0159,Priya,Sharma,Female,18-12-1999,emp159@livspace.com,9478369400,13-12-2023,Operations,Project Coordinator,EMP0010,C161,393526,Contract,active,5,5,Remote
+EMP0160,Vikram,Gupta,Male,07-11-1989,emp160@livspace.com,9727207177,20-01-2024,HR,HR Executive,EMP0002,C085,1382486,Full-Time,active,3,5,Remote
+EMP0161,Aarav,Reddy,male,22-01-1987,emp161@livspace.com,9470069646,26-01-2021,HR,HR Executive,EMP0005,C022,505786,Intern,Active,1,3,Remote
+EMP0162,Rahul,Jain,Female,16-06-1988,emp162@livspace.com,9472406315,21-05-2024,Operations,Project Coordinator,EMP0005,C115,2094803,Full-Time,Resigned,3,18,Hybrid
+EMP0163,Vikram,Gupta,male,21-06-1994,emp163@livspace.com,9895637092,09-11-2021,Sales,Sales Executive,EMP0007,C151,2062990,Intern,Active,1,10,Remote
+EMP0164,Rahul,Iyer,Female,26-08-1988,emp164@livspace.com,,09-07-2021,Installation,Site Engineer,EMP0005,C156,1925628,Intern,Resigned,4,3,Remote
+EMP0165,Karan,Patel,Male,22-09-1995,emp165@livspace.com,9847560947,02-05-2023,Sales,Sales Executive,EMP0004,C176,947578,Intern,Active,1,17,Office
+EMP0166,Vikram,Sharma,Female,26-05-1986,emp166@livspace.com,9705044911,14-12-2025,Installation,Site Engineer,EMP0001,C081,1609336,Full-Time,Resigned,1,11,Remote
+EMP0167,Neha,Gupta,male,21-03-1988,emp167@livspace.com,9225145708,05-12-2020,Marketing,Marketing Executive,EMP0008,C160,1118351,Full-Time,Resigned,3,5,Office
+EMP0168,Aarav,Nair,male,02-06-1987,emp168@livspace.com,9637257016,12-06-2021,Finance,Finance Executive,EMP0005,C157,925108,Contract,Active,5,4,Remote
+EMP0169,Vikram,Reddy,Male,27-01-1986,emp169@livspace.com,9955068040,07-02-2021,HR,HR Executive,EMP0009,C134,1518762,Intern,active,3,15,Remote
+EMP0170,Karan,Nair,male,11-05-1983,emp170@livspace.com,9795320526,03-09-2020,Sales,Sales Executive,EMP0010,C073,869507,Full-Time,active,3,5,Office
+EMP0171,Vikram,Reddy,Female,09-01-1996,emp171@livspace.com,9825263280,16-04-2020,HR,HR Executive,EMP0004,C084,1233386,Intern,On Leave,4,11,Remote
+EMP0172,Karan,Iyer,Male,13-08-1985,emp172@livspace.com,9585792878,20-03-2025,Finance,Finance Executive,EMP0008,C183,607619,Intern,On Leave,4,10,Hybrid
+EMP0173,Vikram,Sharma,male,10-04-1980,emp173@livspace.com,9465094807,28-06-2022,Marketing,Marketing Executive,EMP0002,C197,1909869,Full-Time,Resigned,5,20,Office
+EMP0174,Priya,Patel,Female,11-09-1996,emp174@livspace.com,9836628347,25-08-2020,HR,HR Executive,EMP0001,C202,1160842,Contract,On Leave,3,2,Remote
+EMP0175,Karan,Singh,male,14-05-1999,,9457059246,06-12-2020,Operations,Project Coordinator,EMP0009,C015,1463311,Intern,Active,4,10,Hybrid
+EMP0176,Ananya,Gupta,Male,08-08-1985,emp176@livspace.com,9319089723,10-06-2024,Design,Interior Designer,EMP0009,C019,618356,Intern,Resigned,4,4,Hybrid
+EMP0177,Karan,Patel,male,12-10-1992,emp177@livspace.com,9985978378,04-08-2021,Sales,Sales Executive,EMP0009,C101,1465635,Full-Time,On Leave,5,4,Office
+EMP0178,Rahul,Iyer,Female,17-07-1980,emp178@livspace.com,9510097176,08-11-2020,Finance,Finance Executive,EMP0002,C206,1060082,Contract,Resigned,1,0,Remote
+EMP0179,Priya,Gupta,Female,24-08-1999,emp179@livspace.com,9509619753,28-02-2025,Marketing,Marketing Executive,EMP0010,C177,2110811,Full-Time,On Leave,2,4,Remote
+EMP0180,Vikram,Gupta,Female,07-10-1980,emp180@livspace.com,9413159398,16-08-2023,HR,HR Executive,EMP0002,C199,609991,Contract,active,null,1,Hybrid
+EMP0181,Karan,Sharma,male,26-07-1983,emp181@livspace.com,9519021416,26-03-2021,Finance,Finance Executive,EMP0001,C154,1701537,Full-Time,active,4,0,Office
+EMP0182,Priya,Jain,Female,25-08-1998,emp182@livspace.com,9766051000,07-06-2022,Finance,Finance Executive,EMP0009,C092,558942,Contract,Active,4,18,Remote
+EMP0183,Priya,Nair,Female,07-04-1993,emp183@livspace.com,9695740965,19-03-2025,Operations,Project Coordinator,EMP0010,C017,977847,Full-Time,active,1,14,Remote
+EMP0184,Vikram,Jain,male,07-10-1995,emp184@livspace.com,9670913833,14-06-2024,Marketing,Marketing Executive,EMP0006,C204,971665,Intern,On Leave,5,10,Hybrid
+EMP0185,Aarav,Jain,Male,22-01-1984,emp185@livspace.com,9745025059,28-11-2024,HR,HR Executive,EMP0009,C110,668835,Full-Time,On Leave,5,11,Office
+EMP0186,Priya,Nair,Male,10-07-1999,emp186@livspace.com,9106331219,15-10-2025,Procurement,Procurement Executive,EMP0004,C197,343073,Intern,On Leave,3,0,Remote
+EMP0187,Sneha,Gupta,Female,16-05-1997,emp187@livspace.com,9769417991,10-05-2022,Design,Interior Designer,EMP0006,C048,1742454,Full-Time,On Leave,2,12,Hybrid
+EMP0188,Priya,Nair,Female,16-09-1993,emp188@livspace.com,9459073143,02-09-2024,Installation,Site Engineer,EMP0004,C130,1173512,Contract,On Leave,4,10,Hybrid
+EMP0189,Priya,Singh,male,13-08-1994,emp189@livspace.com,9624626877,21-04-2024,Operations,Project Coordinator,EMP0010,C131,397671,Full-Time,Resigned,4,5,Remote
+EMP0190,Rahul,Singh,male,01-08-1985,emp190@livspace.com,9384102246,15-08-2023,Sales,Sales Executive,EMP0001,C035,1688943,Full-Time,active,1,4,Remote
+EMP0191,Sneha,Gupta,Female,27-04-1999,emp191@livspace.com,9426857939,17-06-2024,Design,Interior Designer,EMP0008,C089,1242410,Intern,Resigned,1,3,Remote
+EMP0192,Rahul,Iyer,Male,01-11-1997,emp192@livspace.com,9680619334,28-12-2021,Finance,Finance Executive,EMP0003,C050,2016257,Full-Time,Active,4,0,Office
+EMP0193,Rahul,Reddy,Male,24-04-1988,emp193@livspace.com,9962823520,19-06-2022,HR,HR Executive,EMP0009,C206,477817,Intern,Active,2,17,Remote
+EMP0194,Karan,Nair,Male,18-01-1989,emp194@livspace.com,9658239275,26-04-2024,Installation,Site Engineer,EMP0010,C166,564142,Intern,active,5,2,Office
+EMP0195,Aarav,Iyer,Female,03-09-1983,emp195@livspace.com,9577327995,05-04-2024,Operations,Project Coordinator,EMP0001,C170,907747,Full-Time,active,4,11,Hybrid
+EMP0196,Rahul,Iyer,male,15-10-1994,emp196@livspace.com,9612585800,11-05-2022,Design,Interior Designer,EMP0001,C092,1852942,Intern,On Leave,3,18,Remote
+EMP0197,Neha,Gupta,Female,12-05-1990,emp197@livspace.com,9511147858,12-11-2023,Marketing,Marketing Executive,EMP0009,C161,1929108,Contract,Active,2,20,Hybrid
+EMP0198,Aarav,Gupta,Male,26-05-1988,emp198@livspace.com,9532770778,08-10-2025,Finance,Finance Executive,EMP0001,C206,1040506,Intern,Active,4,9,Remote
+EMP0199,Vikram,Singh,male,21-04-1991,emp199@livspace.com,9522506872,07-02-2023,Marketing,Marketing Executive,EMP0002,C108,2072552,Contract,Resigned,4,15,Remote
+EMP0200, Rahul,Nair,Female,23-04-1980,emp200@livspace.com,9308836358,21-10-2023,Marketing,Marketing Executive,EMP0004,C105,1455059,Contract,Active,4,15,Office
+EMP0201,Rahul,Singh,Female,17-02-1981,emp201@livspace.com,9100693224,07-02-2021,Installation,Site Engineer,EMP0004,C002,2000194,Full-Time,Resigned,5,8,Office
+EMP0202,Karan,Patel,male,13-06-1981,emp202@livspace.com,9596178042,13-08-2020,Design,Interior Designer,EMP0001,C069,1186329,Full-Time,active,3,8,Remote
+EMP0203,Rahul,Sharma,male,11-03-1998,emp203@livspace.com,9249301607,02-03-2020,Design,Interior Designer,EMP0004,C212,1512785,Full-Time,Resigned,1,15,Remote
+EMP0204,Sneha,Iyer,Male,15-08-1987,emp204@livspace.com,9147660692,09-10-2022,Customer Support,Support Executive,EMP0010,C074,818043,Intern,Active,3,1,Remote
+EMP0205,Rahul,Gupta,Female,28-12-1988,emp205@livspace.com,,13-05-2020,Design,Interior Designer,EMP0003,C043,1612275,Intern,active,3,0,Remote
+EMP0206,Sneha,Patel,Male,01-01-1989,emp206@livspace.com,9608675465,07-08-2025,Operations,Project Coordinator,EMP0009,C037,1372164,Intern,Active,3,12,Hybrid
+EMP0207,Sneha,Patel,Female,10-07-1983,emp207@livspace.com,9486836650,06-12-2020,Sales,Sales Executive,EMP0007,C152,1384021,Contract,active,3,20,Remote
+EMP0208,Rahul,Nair,Male,15-04-1995,emp208@livspace.com,9929201205,10-01-2024,Customer Support,Support Executive,EMP0007,C134,1729754,Intern,On Leave,5,9,Office
+EMP0209,Karan,Iyer,Male,08-03-1995,emp209@livspace.com,9178387671,07-01-2022,Installation,Site Engineer,EMP0005,C233,538402,Contract,On Leave,5,19,Remote
+EMP0210,Sneha,Gupta,male,27-03-1996,,9725733943,23-10-2021,Design,Interior Designer,EMP0005,C082,724475,Intern,Resigned,3,20,Remote
+EMP0211,Priya,Nair,Female,09-02-1989,emp211@livspace.com,9548654585,22-04-2020,Marketing,Marketing Executive,EMP0007,C090,433625,Contract,Resigned,1,19,Hybrid
+EMP0212,Rahul,Patel,male,04-06-1985,emp212@livspace.com,9734955064,04-02-2020,Marketing,Marketing Executive,EMP0009,C086,1505749,Contract,active,2,10,Hybrid
+EMP0213,Karan,Iyer,Male,21-07-1988,emp213@livspace.com,9394374654,23-06-2025,HR,HR Executive,EMP0006,C177,1364804,Contract,On Leave,3,4,Office
+EMP0214,Rahul,Singh,Female,12-04-1984,emp214@livspace.com,9810157500,18-11-2025,Installation,Site Engineer,EMP0008,C230,1643271,Contract,Active,3,3,Hybrid
+EMP0215,Neha,Nair,Male,10-04-1983,emp215@livspace.com,9627894035,08-09-2021,Design,Interior Designer,EMP0005,C176,2176844,Intern,Resigned,1,8,Hybrid
+EMP0216,Rahul,Sharma,Female,09-04-1993,emp216@livspace.com,9512354314,26-02-2024,Installation,Site Engineer,EMP0007,C226,997558,Intern,Active,5,17,Hybrid
+EMP0217,Vikram,Gupta,male,03-03-1981,emp217@livspace.com,9303587524,02-04-2021,Operations,Project Coordinator,EMP0001,C174,1170299,Contract,Active,5,11,Hybrid
+EMP0218,Neha,Singh,male,14-07-1982,emp218@livspace.com,9601094760,23-03-2023,HR,HR Executive,EMP0009,C204,1336224,Contract,On Leave,1,14,Remote
+EMP0219,Rahul,Jain,Female,24-03-1999,emp219@livspace.com,9362275570,08-04-2025,Sales,Sales Executive,EMP0008,C004,1771861,Full-Time,Active,1,15,Hybrid
+EMP0220,Sneha,Gupta,Female,09-05-1994,emp220@livspace.com,9819249148,21-04-2020,Procurement,Procurement Executive,EMP0004,C035,2197602,Intern,active,5,16,Office
+EMP0221,Vikram,Nair,Male,17-02-1998,emp221@livspace.com,9137398928,17-10-2023,HR,HR Executive,EMP0003,C108,748566,Contract,Active,2,20,Remote
+EMP0222,Priya,Reddy,Female,20-03-1992,emp222@livspace.com,9616073882,02-06-2022,Sales,Sales Executive,EMP0006,C152,1171474,Full-Time,On Leave,3,8,Hybrid
+EMP0223,Rahul,Nair,Male,18-11-1990,emp223@livspace.com,9287605784,13-02-2020,Design,Interior Designer,EMP0003,C220,528264,Full-Time,Resigned,1,2,Hybrid
+EMP0224,Ananya,Iyer,Female,15-10-1998,emp224@livspace.com,9366683434,20-03-2021,Procurement,Procurement Executive,EMP0007,C179,1888928,Contract,Resigned,4,10,Hybrid
+EMP0225,Sneha,Jain,Male,15-01-1983,emp225@livspace.com,9720534942,25-10-2023,Operations,Project Coordinator,EMP0009,C181,1399811,Contract,active,null,3,Office
+EMP0226,Neha,Iyer,Male,01-06-1993,emp226@livspace.com,9670059104,08-06-2021,Procurement,Procurement Executive,EMP0002,C082,1741981,Intern,On Leave,5,17,Hybrid
+EMP0227,Neha,Jain,Male,17-04-1983,emp227@livspace.com,9193803585,04-11-2024,Design,Interior Designer,EMP0010,C010,1290336,Intern,Resigned,3,13,Office
+EMP0228,Rahul,Patel,Female,06-10-1980,emp228@livspace.com,9918538326,15-05-2022,Finance,Finance Executive,EMP0010,C173,2091096,Contract,active,5,13,Remote
+EMP0229,Sneha,Nair,Male,06-12-1990,emp229@livspace.com,9878820621,28-11-2023,Customer Support,Support Executive,EMP0003,C113,1431189,Full-Time,Active,1,9,Hybrid
+EMP0230,Neha,Nair,Female,16-04-1981,emp230@livspace.com,9925508609,02-06-2021,Marketing,Marketing Executive,EMP0005,C007,668736,Intern,Active,4,7,Office
+EMP0231,Karan,Singh,Female,28-02-1986,emp231@livspace.com,9170469373,18-07-2021,Procurement,Procurement Executive,EMP0003,C062,1587679,Full-Time,Active,3,12,Hybrid
+EMP0232,Rahul,Patel,male,09-12-1998,emp232@livspace.com,9385323377,12-03-2025,Design,Interior Designer,EMP0003,C248,1023096,Intern,active,1,6,Office
+EMP0233,Aarav,Gupta,Male,12-01-1998,emp233@livspace.com,9231479859,10-10-2022,Operations,Project Coordinator,EMP0002,C001,1569264,Full-Time,On Leave,3,2,Remote
+EMP0234,Ananya,Jain,male,26-11-1982,emp234@livspace.com,9223713536,10-07-2023,Marketing,Marketing Executive,EMP0003,C102,1036824,Intern,Resigned,5,13,Office
+EMP0235,Priya,Sharma,Male,02-12-1983,emp235@livspace.com,9522080797,17-09-2021,Sales,Sales Executive,EMP0010,C069,789727,Intern,Active,1,19,Remote
+EMP0236,Vikram,Gupta,Male,24-04-1986,emp236@livspace.com,9200972042,05-04-2023,Procurement,Procurement Executive,EMP0004,C011,1598137,Intern,Active,1,8,Hybrid
+EMP0237,Sneha,Sharma,male,08-12-1988,emp237@livspace.com,9963948366,10-09-2025,Installation,Site Engineer,EMP0006,C055,966167,Contract,active,2,9,Office
+EMP0238,Priya,Sharma,male,19-05-1987,emp238@livspace.com,9198649601,06-04-2025,Design,Interior Designer,EMP0007,C061,1039659,Full-Time,Active,3,11,Hybrid
+EMP0239,Rahul,Gupta,male,12-06-1991,emp239@livspace.com,9116462525,28-09-2022,HR,HR Executive,EMP0004,C043,759943,Full-Time,active,1,18,Office
+EMP0240,Vikram,Iyer,Female,08-04-1985,emp240@livspace.com,9772367465,18-10-2023,HR,HR Executive,EMP0006,C109,445304,Contract,active,4,13,Hybrid
+EMP0241,Ananya,Nair,Female,19-10-1983,emp241@livspace.com,9619286098,19-11-2024,Operations,Project Coordinator,EMP0002,C159,1740103,Intern,active,3,13,Hybrid
+EMP0242,Vikram,Nair,male,09-07-1994,emp242@livspace.com,9515877429,12-06-2024,Finance,Finance Executive,EMP0009,C053,1427654,Intern,Active,5,16,Office
+EMP0243,Vikram,Sharma,Male,11-10-1993,emp243@livspace.com,9200382776,13-06-2024,Installation,Site Engineer,EMP0009,C249,1600851,Intern,Active,1,8,Hybrid
+EMP0244,Karan,Singh,Female,09-09-1996,emp244@livspace.com,9526636283,10-05-2025,Finance,Finance Executive,EMP0010,C194,1878603,Contract,On Leave,4,6,Hybrid
+EMP0245,Vikram,Patel,Male,24-10-1989,,9339118665,26-10-2021,Operations,Project Coordinator,EMP0010,C072,1426628,Intern,Resigned,4,3,Remote
+EMP0246,Karan,Sharma,male,09-08-1990,emp246@livspace.com,,06-01-2023,Procurement,Procurement Executive,EMP0003,C121,429764,Intern,Resigned,1,15,Hybrid
+EMP0247,Ananya,Singh,Female,06-05-1999,emp247@livspace.com,9265966300,02-09-2021,Customer Support,Support Executive,EMP0008,C098,1878433,Full-Time,Resigned,2,1,Hybrid
+EMP0248,Karan,Patel,Male,18-07-1996,emp248@livspace.com,9270326762,12-05-2025,Sales,Sales Executive,EMP0008,C091,1916793,Full-Time,Resigned,1,4,Hybrid
+EMP0249,Sneha,Jain,Male,05-05-1996,emp249@livspace.com,9204693871,14-04-2020,Sales,Sales Executive,EMP0009,C141,1052690,Full-Time,active,1,4,Hybrid
+EMP0250, Vikram,Sharma,male,17-12-1996,emp250@livspace.com,9963999974,15-09-2024,Marketing,Marketing Executive,EMP0004,C117,2136081,Full-Time,Resigned,4,5,Hybrid
+EMP0251,Sneha,Patel,Male,05-12-1981,emp251@livspace.com,9543795652,14-08-2021,Operations,Project Coordinator,EMP0001,C048,1389173,Full-Time,On Leave,1,13,Office
+EMP0252,Rahul,Reddy,Male,17-04-1984,emp252@livspace.com,9891346108,18-09-2023,Finance,Finance Executive,EMP0009,C190,1844800,Contract,On Leave,4,11,Remote
+EMP0253,Sneha,Nair,Male,07-09-1997,emp253@livspace.com,9350816432,27-03-2022,Installation,Site Engineer,EMP0003,C005,687069,Intern,active,5,8,Remote
+EMP0254,Neha,Nair,male,08-05-1981,emp254@livspace.com,9985973944,24-10-2023,Sales,Sales Executive,EMP0003,C003,1457280,Full-Time,On Leave,5,6,Hybrid
+EMP0255,Aarav,Singh,male,25-09-1982,emp255@livspace.com,9849074206,23-09-2024,Design,Interior Designer,EMP0001,C014,2084186,Contract,active,1,9,Office
+EMP0256,Neha,Sharma,male,08-09-1992,emp256@livspace.com,9545093274,26-09-2022,Installation,Site Engineer,EMP0002,C119,520033,Full-Time,active,3,14,Hybrid
+EMP0257,Sneha,Patel,Male,17-11-1980,emp257@livspace.com,9904704533,25-09-2022,Sales,Sales Executive,EMP0007,C065,393518,Full-Time,Resigned,4,6,Hybrid
+EMP0258,Ananya,Gupta,male,24-04-1987,emp258@livspace.com,9833969702,17-02-2022,Procurement,Procurement Executive,EMP0008,C201,1522210,Intern,Resigned,4,10,Remote
+EMP0259,Ananya,Gupta,male,13-07-1985,emp259@livspace.com,9706218597,15-04-2020,Marketing,Marketing Executive,EMP0003,C179,1485644,Contract,Active,3,9,Office
+EMP0260,Aarav,Sharma,male,13-09-1986,emp260@livspace.com,9990288622,17-07-2024,Customer Support,Support Executive,EMP0010,C153,461506,Full-Time,Resigned,2,0,Remote
+EMP0261,Vikram,Nair,Female,08-11-1999,emp261@livspace.com,9438089250,20-08-2025,Finance,Finance Executive,EMP0002,C004,1719792,Full-Time,Resigned,1,13,Office
+EMP0262,Neha,Singh,Female,25-07-1998,emp262@livspace.com,9912807578,20-08-2023,Procurement,Procurement Executive,EMP0009,C187,1580067,Full-Time,active,4,14,Hybrid
+EMP0263,Karan,Singh,Female,11-08-1983,emp263@livspace.com,9413993179,25-09-2024,Operations,Project Coordinator,EMP0009,C209,1436610,Contract,On Leave,1,16,Hybrid
+EMP0264,Rahul,Gupta,male,14-02-1980,emp264@livspace.com,9686333929,07-01-2023,Installation,Site Engineer,EMP0004,C196,819831,Full-Time,On Leave,3,4,Hybrid
+EMP0265,Aarav,Sharma,male,14-06-1990,emp265@livspace.com,9245181947,01-11-2022,Design,Interior Designer,EMP0008,C181,1300499,Intern,Active,4,9,Hybrid
+EMP0266,Karan,Sharma,male,17-02-1980,emp266@livspace.com,9470186469,06-12-2021,Operations,Project Coordinator,EMP0002,C120,1338626,Intern,On Leave,5,12,Remote
+EMP0267,Rahul,Jain,Male,01-06-1987,emp267@livspace.com,9459839996,03-09-2025,Sales,Sales Executive,EMP0001,C216,852312,Contract,Resigned,1,19,Remote
+EMP0268,Karan,Singh,Female,03-02-1981,emp268@livspace.com,9529884134,01-10-2024,Design,Interior Designer,EMP0004,C241,427331,Full-Time,Resigned,5,9,Remote
+EMP0269,Priya,Gupta,male,11-10-1993,emp269@livspace.com,9638620816,24-04-2023,Sales,Sales Executive,EMP0001,C070,2046916,Full-Time,active,5,10,Hybrid
+EMP0270,Neha,Singh,Male,11-11-1994,emp270@livspace.com,9959902689,13-01-2024,Design,Interior Designer,EMP0001,C089,1838739,Contract,Resigned,null,5,Hybrid
+EMP0271,Aarav,Reddy,Male,05-11-1996,emp271@livspace.com,9799503430,18-03-2024,Design,Interior Designer,EMP0005,C030,857547,Full-Time,Resigned,5,16,Hybrid
+EMP0272,Rahul,Singh,Female,15-11-1997,emp272@livspace.com,9889196816,28-07-2025,Operations,Project Coordinator,EMP0005,C082,1564139,Intern,Active,1,13,Hybrid
+EMP0273,Vikram,Nair,Male,09-04-1987,emp273@livspace.com,9414078051,02-04-2024,Procurement,Procurement Executive,EMP0005,C215,1703874,Intern,On Leave,4,13,Remote
+EMP0274,Rahul,Nair,Female,06-04-1997,emp274@livspace.com,9353075174,28-05-2022,Sales,Sales Executive,EMP0005,C102,501563,Contract,On Leave,2,11,Remote
+EMP0275,Karan,Gupta,male,14-03-1985,emp275@livspace.com,9462422623,20-01-2025,Procurement,Procurement Executive,EMP0001,C166,2183047,Full-Time,active,2,7,Remote
+EMP0276,Ananya,Nair,Female,14-01-1983,emp276@livspace.com,9394682573,01-07-2025,Marketing,Marketing Executive,EMP0003,C240,1220251,Contract,active,4,7,Office
+EMP0277,Rahul,Nair,Male,07-03-1989,emp277@livspace.com,9459066947,04-04-2022,Marketing,Marketing Executive,EMP0006,C081,908343,Intern,Active,3,2,Remote
+EMP0278,Vikram,Nair,Female,15-02-1982,emp278@livspace.com,9352771353,16-07-2022,Design,Interior Designer,EMP0010,C197,1219729,Intern,Active,1,0,Hybrid
+EMP0279,Neha,Gupta,Female,07-07-1989,emp279@livspace.com,9678781451,21-02-2025,Procurement,Procurement Executive,EMP0010,C220,1763242,Contract,active,5,15,Office
+EMP0280,Ananya,Iyer,male,16-04-1989,,9308623127,11-10-2021,Operations,Project Coordinator,EMP0005,C172,1598838,Contract,On Leave,5,20,Remote
+EMP0281,Priya,Patel,Male,04-02-1991,emp281@livspace.com,9437223610,16-06-2021,HR,HR Executive,EMP0007,C039,1125108,Contract,Resigned,5,3,Office
+EMP0282,Sneha,Reddy,Male,24-07-1994,emp282@livspace.com,9479451759,08-08-2021,Finance,Finance Executive,EMP0005,C201,916351,Full-Time,Active,2,12,Office
+EMP0283,Vikram,Patel,Female,14-10-1986,emp283@livspace.com,9286464079,27-11-2021,Customer Support,Support Executive,EMP0004,C187,1972124,Intern,Resigned,4,12,Office
+EMP0284,Neha,Reddy,Male,11-12-1981,emp284@livspace.com,9240758155,26-06-2024,Customer Support,Support Executive,EMP0004,C193,918665,Contract,Active,5,15,Office
+EMP0285,Priya,Iyer,male,21-06-1980,emp285@livspace.com,9315867247,20-08-2023,Finance,Finance Executive,EMP0009,C035,776339,Intern,active,2,5,Remote
+EMP0286,Aarav,Iyer,male,12-05-1998,emp286@livspace.com,9280390009,12-07-2025,Operations,Project Coordinator,EMP0008,C142,1314645,Contract,On Leave,2,8,Remote
+EMP0287,Ananya,Reddy,Male,01-03-1994,emp287@livspace.com,,26-01-2025,Operations,Project Coordinator,EMP0009,C106,1382470,Intern,Active,2,0,Remote
+EMP0288,Karan,Jain,Male,18-07-1981,emp288@livspace.com,9180374774,11-08-2021,Sales,Sales Executive,EMP0010,C205,939704,Intern,active,1,8,Office
+EMP0289,Rahul,Nair,Female,02-08-1988,emp289@livspace.com,9666440204,03-01-2022,Finance,Finance Executive,EMP0009,C001,1947169,Contract,Active,3,8,Remote
+EMP0290,Aarav,Gupta,Male,17-09-1980,emp290@livspace.com,9502384792,19-07-2021,Operations,Project Coordinator,EMP0006,C029,1747752,Full-Time,Active,4,5,Office
+EMP0291,Ananya,Reddy,Female,07-06-1999,emp291@livspace.com,9985665176,01-10-2024,Operations,Project Coordinator,EMP0001,C175,1734549,Intern,On Leave,3,0,Remote
+EMP0292,Rahul,Reddy,Female,03-12-1980,emp292@livspace.com,9144479186,03-06-2022,HR,HR Executive,EMP0008,C209,638486,Full-Time,On Leave,1,7,Remote
+EMP0293,Neha,Jain,male,25-01-1980,emp293@livspace.com,9896535502,17-10-2020,Design,Interior Designer,EMP0001,C102,1469137,Contract,Resigned,1,10,Remote
+EMP0294,Vikram,Nair,male,10-03-1992,emp294@livspace.com,9304294574,25-12-2025,Procurement,Procurement Executive,EMP0006,C016,1424623,Contract,active,3,6,Remote
+EMP0295,Priya,Patel,Female,15-01-1985,emp295@livspace.com,9475403006,02-03-2022,Installation,Site Engineer,EMP0004,C232,1014102,Intern,active,5,8,Hybrid
+EMP0296,Ananya,Reddy,Male,27-11-1998,emp296@livspace.com,9511695258,05-05-2025,Customer Support,Support Executive,EMP0009,C193,671997,Contract,Active,5,17,Hybrid
+EMP0297,Aarav,Gupta,Female,24-07-1987,emp297@livspace.com,9721570017,27-07-2024,HR,HR Executive,EMP0001,C072,544260,Full-Time,active,4,1,Office
+EMP0298,Vikram,Singh,Female,03-10-1992,emp298@livspace.com,9416645484,26-06-2023,HR,HR Executive,EMP0008,C155,1700524,Full-Time,On Leave,3,18,Remote
+EMP0299,Neha,Nair,Male,28-08-1983,emp299@livspace.com,9925585586,27-01-2023,Procurement,Procurement Executive,EMP0001,C095,582068,Contract,On Leave,4,10,Hybrid
+EMP0300, Vikram,Patel,male,03-12-1998,emp300@livspace.com,9921531329,10-04-2024,Finance,Finance Executive,EMP0006,C096,472737,Contract,active,5,0,Office
