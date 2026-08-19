@@ -1,0 +1,151 @@
+designer_id,employee_id,specialization,experience_years,rating,city_id,status
+DES001,EMP0211,Luxury Interiors,9,3.6,C221,Busy
+DES002,EMP0169,Office Interiors,5,3.7,C010,Available
+DES003,EMP0021,Office Interiors,3,4.9,C220,Busy
+DES004,EMP0049,Bedroom,2,4.8,C223,available
+DES005,EMP0142,Luxury Interiors,12,4.4,C184,available
+DES006,EMP0251,Luxury Interiors,10,4.4,C035,available
+DES007,EMP0007,Modular Kitchen,2,3.3,C120,Busy
+DES008,EMP0034,Office Interiors,14,4.5,C014,Busy
+DES009,EMP0272,Luxury Interiors,1,4.5,C140,Available
+DES010,EMP0251,Modular Kitchen,7,4.5,C050,Available
+DES011,EMP0095,Modular Kitchen,5,3.1,C057,On Leave
+DES012,EMP0045,Bedroom,3,4.9,C029,On Leave
+DES013,EMP0118,Modular Kitchen,16,4.1,C161,available
+DES014,EMP0295,Luxury Interiors,10,3.3,C071,available
+DES015,EMP0048,Office Interiors,4,4,C169,Busy
+DES016,EMP0242,Bedroom,16,3.1,C109,On Leave
+DES017,EMP0245,Luxury Interiors,18,4.9,C167,On Leave
+DES018,EMP0239,Office Interiors,3,3.4,C001,available
+DES019,EMP0089,Living Room,8,3.8,C094,Busy
+DES020,EMP0167,Modular Kitchen,1,Null,C196,Available
+DES021,EMP0087,Bedroom,5,3.5,C190,Available
+DES022,EMP0123,Living Room,8,4.2,C136,On Leave
+DES023,EMP0013,Bedroom,18,3.1,C239,available
+DES024,EMP0205,Modular Kitchen,5,4.4,C233,Available
+DES025,EMP0262,Office Interiors,5,4.2,C215,Available
+DES026,EMP0267,Luxury Interiors,5,4.7,C121,On Leave
+DES027,EMP0159,Bedroom,7,3.4,C034,Busy
+DES028,EMP0208,Living Room,18,3.4,C084,available
+DES029,EMP0158,Office Interiors,14,3.3,C125,available
+DES030,EMP0273,Luxury Interiors,6,3.2,C032,On Leave
+DES031,EMP0044,Modular Kitchen,5,4.6,C143,available
+DES032,EMP0289,Modular Kitchen,1,3.4,C154,Busy
+DES033,EMP0098,Modular Kitchen,3,3.7,C220,Available
+DES034,EMP0243,Modular Kitchen,15,3.1,C026,available
+DES035,EMP0053,Bedroom,13,3.8,C010,Busy
+DES036,EMP0186,Luxury Interiors,16,4.9,C162,On Leave
+DES037,EMP0160,Luxury Interiors,6,3.2,C096,Available
+DES038,EMP0175,Living Room,11,4.5,C102,Busy
+DES039,EMP0002,Bedroom,9,4.9,C133,Busy
+DES040,EMP0234,Luxury Interiors,15,Null,C043,Busy
+DES041,EMP0244,Office Interiors,18,4.7,C089,Available
+DES042,EMP0271,Living Room,18,4.4,C072,Available
+DES043,EMP0287,Living Room,6,3.8,C108,Busy
+DES044,EMP0187,Luxury Interiors,8,4.8,C035,available
+DES045,EMP0110,Office Interiors,13,4.4,C243,On Leave
+DES046,EMP0048,Luxury Interiors,15,4,C246,Available
+DES047,EMP0018,Bedroom,14,4,C120,Available
+DES048,EMP0175,Luxury Interiors,9,3.8,C006,available
+DES049,EMP0270,Living Room,18,3.2,C131,Available
+DES050,EMP0259,Luxury Interiors,9,3.1,C187,Busy
+DES051,EMP0044,Luxury Interiors,13,3.9,C047,Busy
+DES052,EMP0034,Bedroom,11,3.9,C002,Busy
+DES053,EMP0145,Living Room,12,4.1,C092,Busy
+DES054,EMP0144,Luxury Interiors,4,4.7,C245,available
+DES055,EMP0272,Modular Kitchen,1,4.9,C091,available
+DES056,EMP0048,Modular Kitchen,7,3.4,C106,Available
+DES057,EMP0024,Luxury Interiors,15,3.7,C036,On Leave
+DES058,EMP0290,Luxury Interiors,15,4.3,C057,Available
+DES059,EMP0153,Living Room,4,4,C231,Busy
+DES060,EMP0262,Living Room,6,Null,C056,On Leave
+DES061,EMP0149,Bedroom,16,3,C004,available
+DES062,EMP0149,Bedroom,11,3.9,C062,Available
+DES063,EMP0172,Living Room,18,3,C086,available
+DES064,EMP0225,Living Room,15,4.3,C225,available
+DES065,EMP0014,Luxury Interiors,18,3.5,C200,Busy
+DES066,EMP0202,Bedroom,16,4,C053,Busy
+DES067,EMP0010,Living Room,16,4,C245,Busy
+DES068,EMP0120,Office Interiors,5,3.8,C174,available
+DES069,EMP0294,Modular Kitchen,16,4.2,C002,Busy
+DES070,EMP0021,Modular Kitchen,9,4.4,C039,Busy
+DES071,EMP0240,Luxury Interiors,14,5,C128,Available
+DES072,EMP0114,Modular Kitchen,18,5,C034,available
+DES073,EMP0057,Luxury Interiors,3,3.2,C159,Available
+DES074,EMP0042,Bedroom,16,4.2,C174,Available
+DES075,EMP0185,Modular Kitchen,15,3.4,C055,Busy
+DES076,EMP0068,Bedroom,10,4.9,C230,available
+DES077,EMP0195,Office Interiors,15,4.2,C040,Available
+DES078,EMP0056,Modular Kitchen,8,3.3,C036,available
+DES079,EMP0022,Office Interiors,13,3.3,C092,Busy
+DES080,EMP0287,Living Room,17,Null,C076,available
+DES081,EMP0015,Luxury Interiors,10,4.7,C157,On Leave
+DES082,EMP0041,Office Interiors,10,4.6,C182,On Leave
+DES083,EMP0037,Living Room,7,4.8,C014,available
+DES084,EMP0008,Bedroom,10,4.3,C180,available
+DES085,EMP0061,Modular Kitchen,5,3.6,C232,available
+DES086,EMP0299,Office Interiors,14,5,C017,available
+DES087,EMP0197,Modular Kitchen,16,4.4,C168,Busy
+DES088,EMP0266,Bedroom,3,4.8,C155,Available
+DES089,EMP0030,Luxury Interiors,3,4.4,C199,On Leave
+DES090,EMP0230,Luxury Interiors,15,4.4,C127,available
+DES091,EMP0182,Bedroom,7,4.4,C197,On Leave
+DES092,EMP0010,Luxury Interiors,11,3.4,C193,available
+DES093,EMP0241,Bedroom,4,4.6,C246,Available
+DES094,EMP0148,Living Room,14,3.6,C073,Busy
+DES095,EMP0071,Living Room,1,3.8,C097,On Leave
+DES096,EMP0100,Luxury Interiors,11,4.7,C126,Busy
+DES097,EMP0051,Modular Kitchen,1,4.7,C004,Busy
+DES098,EMP0159,Office Interiors,5,3.5,C169,Busy
+DES099,EMP0066,Office Interiors,8,4.7,C093,Busy
+DES100,EMP0258,Bedroom,17,Null,C084,available
+DES101,EMP0065,Living Room,18,3.6,C218,Busy
+DES102,EMP0063,Office Interiors,3,4.9,C173,available
+DES103,EMP0049,Bedroom,7,3.6,C012,Available
+DES104,EMP0027,Living Room,7,4.8,C196,Available
+DES105,EMP0043,Luxury Interiors,15,3.8,C156,On Leave
+DES106,EMP0044,Office Interiors,4,4.4,C040,Busy
+DES107,EMP0118,Modular Kitchen,8,3.8,C003,Available
+DES108,EMP0174,Office Interiors,15,3.1,C236,Available
+DES109,EMP0157,Office Interiors,12,4.8,C077,Available
+DES110,EMP0291,Luxury Interiors,11,4.6,C065,On Leave
+DES111,EMP0149,Luxury Interiors,11,4.1,C164,Busy
+DES112,EMP0093,Modular Kitchen,5,3.1,C170,Available
+DES113,EMP0024,Luxury Interiors,3,3.7,C158,On Leave
+DES114,EMP0136,Modular Kitchen,15,4.2,C231,Busy
+DES115,EMP0205,Living Room,4,4.6,C232,Available
+DES116,EMP0104,Luxury Interiors,10,3.3,C059,available
+DES117,EMP0296,Luxury Interiors,12,4.3,C232,Busy
+DES118,EMP0289,Luxury Interiors,6,3.7,C159,Busy
+DES119,EMP0267,Bedroom,12,4.4,C059,Available
+DES120,EMP0268,Modular Kitchen,4,Null,C032,Available
+DES121,EMP0243,Luxury Interiors,5,3.6,C031,available
+DES122,EMP0097,Modular Kitchen,12,4.2,C042,Available
+DES123,EMP0112,Office Interiors,7,5,C135,Available
+DES124,EMP0114,Modular Kitchen,9,3.8,C178,Available
+DES125,EMP0151,Modular Kitchen,3,3.2,C098,Busy
+DES126,EMP0139,Bedroom,6,3.1,C038,Busy
+DES127,EMP0184,Modular Kitchen,11,3.9,C033,On Leave
+DES128,EMP0286,Office Interiors,12,3.1,C159,available
+DES129,EMP0258,Office Interiors,1,4.6,C041,On Leave
+DES130,EMP0242,Bedroom,15,3.3,C115,Available
+DES131,EMP0220,Bedroom,17,4.6,C009,Busy
+DES132,EMP0159,Luxury Interiors,7,4.2,C120,Busy
+DES133,EMP0172,Luxury Interiors,10,3.1,C054,Busy
+DES134,EMP0146,Office Interiors,12,3.8,C086,On Leave
+DES135,EMP0126,Modular Kitchen,18,4.5,C227,Busy
+DES136,EMP0220,Office Interiors,8,3.4,C116,Busy
+DES137,EMP0113,Living Room,4,3.3,C206,On Leave
+DES138,EMP0153,Modular Kitchen,14,4.3,C017,On Leave
+DES139,EMP0208,Living Room,2,4.3,C182,On Leave
+DES140,EMP0203,Living Room,7,Null,C159,On Leave
+DES141,EMP0107,Living Room,3,3,C209,Available
+DES142,EMP0253,Office Interiors,4,4.1,C214,Busy
+DES143,EMP0199,Modular Kitchen,14,4.9,C124,Available
+DES144,EMP0101,Living Room,3,3.5,C197,On Leave
+DES145,EMP0059,Office Interiors,4,4.8,C231,On Leave
+DES146,EMP0126,Modular Kitchen,13,4.9,C112,Available
+DES147,EMP0179,Living Room,3,4.9,C181,On Leave
+DES148,EMP0025,Luxury Interiors,7,4.9,C229,On Leave
+DES149,EMP0212,Living Room,13,4,C076,Available
+DES150,EMP0253,Bedroom,9,4.3,C032,On Leave

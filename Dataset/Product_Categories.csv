@@ -1,0 +1,41 @@
+category_id,category_name,parent_category,status
+CAT001,Modular Kitchen,Decor,active
+CAT002,Bedroom Furniture,Decor,active
+CAT003,Living Room,Construction,Active
+CAT004,Dining,Utilities,Active
+CAT005,Lighting,Decor,Inactive
+CAT006,Flooring,Decor,Inactive
+CAT007,Wall Decor,Construction,active
+CAT008,Curtains,Decor,Active
+CAT009,WARDROBES,Construction,Inactive
+CAT010,Storage,Decor,active
+CAT011, Office Furniture,Utilities,Active
+CAT012,Bathroom,Construction,Inactive
+CAT013,Home Decor,Utilities,Active
+CAT014,Paint,Decor,Inactive
+CAT015,False Ceiling,Construction,Active
+CAT016,Tiles,Utilities,Inactive
+CAT017,Electrical,Utilities,active
+CAT018,SMART HOME,Decor,active
+CAT019,Outdoor,Construction,active
+CAT020,Kids Room,Furniture,Active
+CAT021,Luxury Interiors,Utilities,active
+CAT022, Sofas,Furniture,Inactive
+CAT023,Beds,Decor,Inactive
+CAT024,Tables,Furniture,active
+CAT025,Chairs,Construction,Active
+CAT026,Cabinets,Utilities,Active
+CAT027,MIRRORS,Utilities,Inactive
+CAT028,Accessories,Decor,Active
+CAT029,Doors,Furniture,Inactive
+CAT030,Windows,Utilities,active
+CAT031,Wallpaper,Furniture,Inactive
+CAT032,Blinds,Decor,Active
+CAT033, Carpets,Construction,Inactive
+CAT034,Pooja Unit,Decor,Inactive
+CAT035,TV Unit,Furniture,Inactive
+CAT036,STUDY ROOM,Furniture,active
+CAT037,Balcony,Construction,active
+CAT038,Utility,Utilities,active
+CAT039,Appliances,Construction,Active
+CAT040,Custom Furniture,Utilities,Inactive
