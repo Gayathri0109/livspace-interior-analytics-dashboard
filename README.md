@@ -401,13 +401,12 @@ Livspace-Interior-Design-BI/
 └── documentation/
     └── Project_Documentation.pdf
 
----
 
 ## Dashboard Screenshots
 
 ### Executive Overview
 ```text
-"D:\Documents from old\Anudip\Dp_Project\Livspace Project\Screenshots\Executive Overview.png"
+![Executive Overview](D:\Documents from old\Anudip\Dp_Project\Livspace Project\Screenshots\Executive Overview.png)
 ```
 
 ### Project, Customer & Designer Analytics
