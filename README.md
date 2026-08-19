@@ -387,34 +387,27 @@ Livspace-Interior-Design-BI/
 │   └── Customer_Reviews.csv
 │
 ├── sql/
-│   ├── database_schema.sql
-│   └── analysis_queries.sql
+│   └── Livespace_Project_Database.sql
 │
 ├── powerbi/
-│   └── Livspace_Interior_Design_Dashboard.pbix
+│   └── Livspace_Project_Dashboard.pbix
 │
 ├── screenshots/
-│   ├── executive_overview.png
-│   ├── project_customer_designer.png
-│   ├── sales_finance_payment.png
-│   └── operations_inventory_supplier.png
+│   ├── Executive Overview.png
+│   ├── Project,Customer & Designer Analytics.png
+│   ├── Sales,Finance & Payment Analytics.png
+│   └── Operations,Inventory & Supplier Analytics.png
 │
 └── documentation/
-    └── project_documentation.pdf
-```
-
-> **Note:** Rename files and folders according to the actual files included in your GitHub repository.
+    └── Project_Documentation.pdf
 
 ---
 
 ## Dashboard Screenshots
 
 ### Executive Overview
-
-Add the screenshot of the Executive Overview dashboard here.
-
 ```text
-screenshots/executive_overview.png
+"D:\Documents from old\Anudip\Dp_Project\Livspace Project\Screenshots\Executive Overview.png"
 ```
 
 ### Project, Customer & Designer Analytics
