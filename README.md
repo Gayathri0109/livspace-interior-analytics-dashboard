@@ -461,7 +461,7 @@ Open the Power BI file from the PowerBI/ folder:
 If you want to connect the dashboard to the MySQL database:
 
 ```bash
-Open the **.pbix file** in Power BI Desktop.
+Open the .pbix file in Power BI Desktop.
 Go to Home → Transform Data Settings.
 Update the MySQL server and database connection details if required.
 Make sure the required database and tables are available.
@@ -471,9 +471,9 @@ Make sure the required database and tables are available.
 ```bash
 After configuring the data source:
 
-Click **Refresh** in Power BI Desktop.
+Click Refresh in Power BI Desktop.
 Allow Power BI to load the data.
-Verify that the **dashboard visuals and KPI** values are updated.
+Verify that the dashboard visuals and KPI values are updated.
 ```
 
 ### Step 6 – Explore the Dashboards
@@ -546,8 +546,7 @@ Use the dashboard to identify business trends, operational issues, performance p
 
 ## Author
 
-**Gayathri E - AF05262879**
-
+**Gayathri E | AF05262879**
 Data & Business Analyst With AI - (Anudip Foundation_Pallavaram, Chennai)
 
 ### Project Title
