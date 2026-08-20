@@ -432,43 +432,49 @@ Install or have access to:
 - CSV dataset files
 
 ### Step 1 – Clone the Repository
+
+```bash
 git clone <your-github-repository-url>
 cd livspace-interior-analytics-dashboard
+```
 
 ### Step 2 – Open the Project Files
 
 After cloning the repository, open the project folder.
 The repository contains:
-
+```bash
 Dataset/
 SQL/
 PowerBI/
 Screenshots/
 Documents/
 README.md
+```
 
 ### Step 3 – Open the Power BI Dashboard
 
 Open the Power BI file from the PowerBI/ folder:
 **PowerBI/Livspace_Interior_Design_Dashboard.pbix**
-Open the file using Microsoft Power BI Desktop.
 
 ### Step 4 – Configure the Data Source
 
 If you want to connect the dashboard to the MySQL database:
 
+```bash
 Open the **.pbix file** in Power BI Desktop.
 Go to Home → Transform Data Settings.
 Update the MySQL server and database connection details if required.
 Make sure the required database and tables are available.
+```
 
 ### Step 5 – Refresh the Dataset
-
+```bash
 After configuring the data source:
 
 Click **Refresh** in Power BI Desktop.
 Allow Power BI to load the data.
 Verify that the **dashboard visuals and KPI** values are updated.
+```
 
 ### Step 6 – Explore the Dashboards
 
@@ -490,6 +496,7 @@ Explore the dashboard using the available interactive filters and slicers.
 
 Depending on the dashboard page, you can filter the analysis by:
 
+```bash
 Year
 City
 Category
@@ -499,6 +506,7 @@ Warehouse
 Supplier
 Product Category
 Payment Method
+```
 
 ### Step 8 – Analyze the KPIs
 
@@ -520,11 +528,13 @@ Inventory & Suppliers
 
 If Microsoft Power BI Desktop is not available, open the Screenshots/ folder to view the dashboard pages.
 
+```text
 Screenshots/
 ├── executive_overview.png
 ├── project_customer_designer.png
 ├── sales_finance_payment.png
 └── operations_inventory_supplier.png
+```
 
 The screenshots provide a quick overview of the completed Power BI dashboard.
 
