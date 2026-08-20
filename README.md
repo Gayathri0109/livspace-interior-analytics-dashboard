@@ -1,8 +1,6 @@
 # Livspace Interior Design Project & Operations Analytics Dashboard
 
-## Project Title
-
-**Livspace Interior Design Project & Operations Analytics Dashboard**
+**Industry: Interior Design & Home Renovation**
 
 ## Project Overview
 
@@ -433,82 +431,102 @@ Install or have access to:
 - Power Query
 - CSV dataset files
 
-### Step 1 – Prepare the Dataset
+### Step 1 – Clone the Repository
+git clone <your-github-repository-url>
+cd livspace-interior-analytics-dashboard
 
-Place all 15 CSV files inside the `dataset/` folder.
+### Step 2 – Open the Project Files
 
-### Step 2 – Create the MySQL Database
+After cloning the repository, open the project folder.
+The repository contains:
 
-1. Open MySQL.
-2. Create a project database.
-3. Import the CSV files as relational tables.
-4. Create the required primary-key and foreign-key relationships.
-5. Verify the tables and record counts.
+Dataset/
+SQL/
+PowerBI/
+Screenshots/
+Documents/
+README.md
 
-### Step 3 – Connect MySQL to Power BI
+### Step 3 – Open the Power BI Dashboard
 
-1. Open **Microsoft Power BI Desktop**.
-2. Select **Home → Get Data**.
-3. Select **MySQL database**.
-4. Enter the MySQL server and database details.
-5. Select the required tables.
-6. Choose **Transform Data**.
+Open the Power BI file from the PowerBI/ folder:
+**PowerBI/Livspace_Interior_Design_Dashboard.pbix**
+Open the file using Microsoft Power BI Desktop.
 
-### Step 4 – Perform ETL in Power Query
+### Step 4 – Configure the Data Source
 
-- Handle missing values.
-- Correct data types.
-- Standardize categorical values.
-- Remove error rows.
-- Create required columns.
-- Validate transformed data.
+If you want to connect the dashboard to the MySQL database:
 
-### Step 5 – Create the Data Model
+Open the **.pbix file** in Power BI Desktop.
+Go to Home → Transform Data Settings.
+Update the MySQL server and database connection details if required.
+Make sure the required database and tables are available.
 
-Create relationships between the cleaned tables using appropriate primary and foreign keys.
+### Step 5 – Refresh the Dataset
 
-### Step 6 – Create DAX Measures
+After configuring the data source:
 
-Create the required KPI measures for:
+Click **Refresh** in Power BI Desktop.
+Allow Power BI to load the data.
+Verify that the **dashboard visuals and KPI** values are updated.
 
-- Revenue
-- Orders
-- Projects
-- Customers
-- Expenses
-- Profit
-- Completion rate
-- Customer rating
-- Payments
-- Inventory
-- Suppliers
+### Step 6 – Explore the Dashboards
 
-### Step 7 – Create the Date Table
+The Power BI dashboard contains four pages:
 
-Create a calendar table covering the project analysis period and add Year, Month, Quarter, Month Year, and sorting columns.
+```text
+Executive Overview
+        ↓
+Project, Customer & Designer Analytics
+        ↓
+Sales, Finance & Payment Analytics
+        ↓
+Operations, Inventory & Supplier Analytics
+```
 
-### Step 8 – Build the Dashboard
+### Step 7 – Use Filters & Slicers
 
-Create the four Power BI pages:
+Explore the dashboard using the available interactive filters and slicers.
 
-1. Executive Overview
-2. Project, Customer & Designer Analytics
-3. Sales, Finance & Payment Analytics
-4. Operations, Inventory & Supplier Analytics
+Depending on the dashboard page, you can filter the analysis by:
 
-### Step 9 – Add Filters & Slicers
+Year
+City
+Category
+Project Status
+Designer
+Warehouse
+Supplier
+Product Category
+Payment Method
 
-Use interactive slicers such as:
+### Step 8 – Analyze the KPIs
 
-- Category
-- Status
-- Year
-- Designer
-- City
-- Warehouse
-- Supplier
-- Product Category
-- Payment Method
+Explore the KPI cards and visualizations to understand:
+
+```text
+Revenue & Profit
+        ↓
+Projects & Completion
+        ↓
+Customers & Reviews
+        ↓
+Sales & Payments
+        ↓
+Inventory & Suppliers
+```
+
+### Step 9 – View Dashboard Screenshots
+
+If Microsoft Power BI Desktop is not available, open the Screenshots/ folder to view the dashboard pages.
+
+Screenshots/
+├── executive_overview.png
+├── project_customer_designer.png
+├── sales_finance_payment.png
+└── operations_inventory_supplier.png
+
+The screenshots provide a quick overview of the completed Power BI dashboard.
 
 ### Step 10 – Analyze Insights
 
@@ -520,11 +538,7 @@ Use the dashboard to identify business trends, operational issues, performance p
 
 **Gayathri E - AF05262879**
 
-Anudip Foundation - Data & Business Analyst With AI
-
-### Project Type
-
-Independent Educational / Portfolio Business Intelligence Project
+Data & Business Analyst With AI - (Anudip Foundation_Pallavaram, Chennai)
 
 ### Project Title
 
