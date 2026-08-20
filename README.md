@@ -1,12 +1,12 @@
-# Livspace Interior Design Business Intelligence Dashboard
+# Livspace Interior Design Project & Operations Analytics Dashboard
 
 ## Project Title
 
-**Livspace Interior Design Business Intelligence Dashboard**
+**Livspace Interior Design Project & Operations Analytics Dashboard**
 
 ## Project Overview
 
-The Livspace Interior Design Business Intelligence Dashboard is an enterprise-level Business Intelligence project designed to analyze and monitor the overall performance of an interior design and home renovation business.
+The Livspace Interior Design Project & Operations Analytics Dashboard is an enterprise-level Business Intelligence project designed to analyze and monitor the overall performance of an interior design and home renovation business.
 
 The project integrates data from multiple business functions including customers, designers, employees, projects, orders, payments, suppliers, inventory, expenses, products, and customer reviews. The objective is to transform fragmented operational data into meaningful insights that support management decision-making.
 
