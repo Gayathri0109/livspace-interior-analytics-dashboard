@@ -526,7 +526,7 @@ Independent Educational / Portfolio Business Intelligence Project
 
 ### Project Title
 
-**Livspace Interior Design Business Intelligence Dashboard**
+**Livspace Interior Design Project & Operations Analytics Dashboard**
 
 ### Tools
 
