@@ -398,6 +398,7 @@ Livspace-Interior-Design-BI/
 │
 └── documentation/
     └── Project_Documentation.pdf
+    └── Data_Dictionary.xlsx
 ```
 
 ## Dashboard Screenshots
